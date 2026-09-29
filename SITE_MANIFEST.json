@@ -1,0 +1,26 @@
+{
+  "domain": "footletcrystal.com",
+  "brand": "Footlet Crystal Atelier",
+  "niche": "socks",
+  "institutional_contact": {
+    "address": "200 Clarendon Street, 54th Floor, Boston, MA 02116, United States",
+    "phone": "+1-866-518-7064",
+    "email": "concierge@footletcrystal.com"
+  },
+  "pages": [
+    "index.html",
+    "about.html",
+    "products.html",
+    "faq.html",
+    "contact.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "assets_count": 20,
+  "php_files_count": 0,
+  "blog_included": false,
+  "google_tag": "G-0LY0HY7L01",
+  "qa_verified": true
+}
